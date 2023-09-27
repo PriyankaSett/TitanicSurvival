@@ -2,7 +2,7 @@ This project uses ![Titanic data](https://raw.githubusercontent.com/BigDataGal/P
 
 This data set contains both numerical and categorical features. Null values are also there. So, before proceeding for model building one needs to take care of all these. 
 
-DecisionTreeClassifier has been used for this binary classification project. Then Streamlit has been used for deployment. 
+DecisionTreeClassifier has been used for this binary classification project. Hyperparameter Tuning has been performed to get the best parameters for prediction task. Then Streamlit has been used for deployment. 
 
 
 ### How to run ? 
@@ -53,3 +53,6 @@ Here is a glimpse of the output.
 
 **Prediction 2.**
 ![Prediction 2](titanic2.png)
+
+### Online Deployment
+Please find the [AppURL](https://titanicsurvival-mhy6chehcnkqezfphstv4x.streamlit.app/) on Streamlit space. 
